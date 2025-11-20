@@ -16,7 +16,6 @@ def get_char_count(text):
 def sort_on(items):
     return items["num"]
 
-# dictionarie is the input, code will put it in a sorted list off dictionaries
 def sort(chars):
     newList = []
     for char in chars:
